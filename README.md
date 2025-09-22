@@ -31,10 +31,6 @@ An **interactive Excel dashboard** was developed to present insights in a clear 
 
 ---
 
-## 📂 Project Structure
-
-
----
 
 ## 📎 Conclusion
 
