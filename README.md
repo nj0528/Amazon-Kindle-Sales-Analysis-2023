@@ -12,12 +12,12 @@ An **interactive Excel dashboard** was developed to present insights in a clear 
 
 - **Microsoft Excel**  
   - Pivot Tables  
-  - Advanced Formulas (e.g., `INDEX MATCH`, `IFERROR`, `SUMIFS`, etc.)  
+  - Advanced Formulas 
   - Interactive Slicers & Charts  
 - **Data Cleaning**  
   - Removal of nulls and inconsistencies  
   - Formatting standardization  
-- **Dataset Source:** [Kaggle - Amazon Kindle Books Dataset 2023](https://www.kaggle.com/) *(Insert specific link if available)*
+- **Dataset Source:** [Kaggle - Amazon Kindle Books Dataset 2023](https://www.kaggle.com/) 
 
 ---
 
@@ -41,7 +41,7 @@ The findings from this analysis provide valuable insights into the Kindle e-book
 ## 🔗 Links
 
 - 🔍 **Dataset Source:** [Kaggle - Amazon Kindle Books Dataset 2023](https://www.kaggle.com/)  
-- 📥 **Download Dashboard:** *Coming Soon / Add link if hosted*
+
 
 ---
 
